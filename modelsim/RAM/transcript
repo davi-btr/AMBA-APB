@@ -1,0 +1,16 @@
+# Compile of RAM.vhd was successful.
+# Compile of RAM_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.ram_tb
+# vsim -gui work.ram_tb 
+# Start time: 19:41:27 on Jun 09,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.ram_tb(beh)
+# Loading ieee.numeric_std(body)
+# Loading work.ram_128x8(rtl)
+do wave.do
+run -all
+# End time: 19:42:43 on Jun 09,2023, Elapsed time: 0:01:16
+# Errors: 0, Warnings: 2

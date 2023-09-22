@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Fri Jun  9 21:38:05 2023
+# Process ID: 29660
+# Current directory: C:/Users/betta/Documents/WORKSPACE/PSM/DIGITALE/Project_AMBA_APB/vivado/AMBA_APB_bus/AMBA_APB_bus.runs/impl_1
+# Command line: vivado.exe -log APB_bus_wrap.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source APB_bus_wrap.tcl -notrace
+# Log file: C:/Users/betta/Documents/WORKSPACE/PSM/DIGITALE/Project_AMBA_APB/vivado/AMBA_APB_bus/AMBA_APB_bus.runs/impl_1/APB_bus_wrap.vdi
+# Journal file: C:/Users/betta/Documents/WORKSPACE/PSM/DIGITALE/Project_AMBA_APB/vivado/AMBA_APB_bus/AMBA_APB_bus.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source APB_bus_wrap.tcl -notrace

@@ -1,0 +1,263 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+Eapb_bridge
+Z0 w1686145800
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 6
+Z3 dC:/Users/betta/Documents/WORKSPACE/PSM/DIGITALE/Project_AMBA_APB/modelsim/AMBA_APB
+Z4 8C:/Users/betta/Documents/WORKSPACE/PSM/DIGITALE/Project_AMBA_APB/src/AMBA_APB.vhd
+Z5 FC:/Users/betta/Documents/WORKSPACE/PSM/DIGITALE/Project_AMBA_APB/src/AMBA_APB.vhd
+l0
+L6 1
+V`^S8QKPR_i]608T44dJhU1
+!s100 Hd0>TfNCkZhla<`MfO]k=1
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1686332281
+!i10b 1
+Z8 !s108 1686332281.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/betta/Documents/WORKSPACE/PSM/DIGITALE/Project_AMBA_APB/src/AMBA_APB.vhd|
+Z10 !s107 C:/Users/betta/Documents/WORKSPACE/PSM/DIGITALE/Project_AMBA_APB/src/AMBA_APB.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Artl
+R1
+R2
+DEx4 work 10 apb_bridge 0 22 `^S8QKPR_i]608T44dJhU1
+!i122 6
+l64
+L35 124
+VHI[iOhaQKEKXI?_cI]CL_0
+!s100 oNaINgUiGU>C[Z9SSA6^@1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eapb_slave_ram
+Z13 w1686064894
+Z14 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R1
+R2
+!i122 7
+R3
+Z15 8C:/Users/betta/Documents/WORKSPACE/PSM/DIGITALE/Project_AMBA_APB/src/APB_RAM_wr.vhd
+Z16 FC:/Users/betta/Documents/WORKSPACE/PSM/DIGITALE/Project_AMBA_APB/src/APB_RAM_wr.vhd
+l0
+L8 1
+Vh:>oIdOgYO@Wea4;513^Q3
+!s100 n5oK0=C[XOf>mc78EIbH^3
+R6
+32
+R7
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/betta/Documents/WORKSPACE/PSM/DIGITALE/Project_AMBA_APB/src/APB_RAM_wr.vhd|
+Z18 !s107 C:/Users/betta/Documents/WORKSPACE/PSM/DIGITALE/Project_AMBA_APB/src/APB_RAM_wr.vhd|
+!i113 1
+R11
+R12
+Artl
+R14
+R1
+R2
+DEx4 work 13 apb_slave_ram 0 22 h:>oIdOgYO@Wea4;513^Q3
+!i122 7
+l34
+L20 33
+VPnbaN18Yi8WGcfgEeOTSS1
+!s100 63ODeVYblF4m:9fm^KKaF2
+R6
+32
+R7
+!i10b 1
+R8
+R17
+R18
+!i113 1
+R11
+R12
+Eapb_slave_rom
+Z19 w1686214511
+R1
+R2
+!i122 8
+R3
+Z20 8C:/Users/betta/Documents/WORKSPACE/PSM/DIGITALE/Project_AMBA_APB/src/APB_ROM_wr.vhd
+Z21 FC:/Users/betta/Documents/WORKSPACE/PSM/DIGITALE/Project_AMBA_APB/src/APB_ROM_wr.vhd
+l0
+L7 1
+VUKMTln]ZD:E;zmM>zPlYI0
+!s100 3lHD3NQF]NZDch@ciW^_z1
+R6
+32
+R7
+!i10b 1
+R8
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/betta/Documents/WORKSPACE/PSM/DIGITALE/Project_AMBA_APB/src/APB_ROM_wr.vhd|
+Z23 !s107 C:/Users/betta/Documents/WORKSPACE/PSM/DIGITALE/Project_AMBA_APB/src/APB_ROM_wr.vhd|
+!i113 1
+R11
+R12
+Artl
+R1
+R2
+DEx4 work 13 apb_slave_rom 0 22 UKMTln]ZD:E;zmM>zPlYI0
+!i122 8
+l30
+L19 25
+VhHL3@k]Na1j]i5Lo_WbS]0
+!s100 R]1Kf?=[fLW6iBEPcFQ>e3
+R6
+32
+R7
+!i10b 1
+R8
+R22
+R23
+!i113 1
+R11
+R12
+Eapb_tb
+Z24 w1686210309
+R1
+R2
+!i122 11
+R3
+Z25 8C:/Users/betta/Documents/WORKSPACE/PSM/DIGITALE/Project_AMBA_APB/tb/AMBA_APB_tb.vhd
+Z26 FC:/Users/betta/Documents/WORKSPACE/PSM/DIGITALE/Project_AMBA_APB/tb/AMBA_APB_tb.vhd
+l0
+L8 1
+VX01R7`1hG4hgoL[]HQSAS3
+!s100 mBUJeT@Z[<>4;j24[^^[?0
+R6
+32
+Z27 !s110 1686332282
+!i10b 1
+Z28 !s108 1686332282.000000
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/betta/Documents/WORKSPACE/PSM/DIGITALE/Project_AMBA_APB/tb/AMBA_APB_tb.vhd|
+Z30 !s107 C:/Users/betta/Documents/WORKSPACE/PSM/DIGITALE/Project_AMBA_APB/tb/AMBA_APB_tb.vhd|
+!i113 1
+R11
+R12
+Artl
+R1
+R2
+Z31 DEx4 work 6 apb_tb 0 22 X01R7`1hG4hgoL[]HQSAS3
+!i122 11
+l88
+Z32 L11 335
+Z33 VPk5nRFRl?MP7LZTDl8]Bd2
+Z34 !s100 [4ChdQGY@GOgLbB?i6;Sb2
+R6
+32
+R27
+!i10b 1
+R28
+R29
+R30
+!i113 1
+R11
+R12
+Eram_128x8
+Z35 w1686211653
+R14
+R1
+R2
+!i122 9
+R3
+Z36 8C:/Users/betta/Documents/WORKSPACE/PSM/DIGITALE/Project_AMBA_APB/src/RAM.vhd
+Z37 FC:/Users/betta/Documents/WORKSPACE/PSM/DIGITALE/Project_AMBA_APB/src/RAM.vhd
+l0
+L7 1
+VbDz2FoX[jIAEC`cc4ZI<:1
+!s100 [^ee<0^hS]SFi@CziEYiE3
+R6
+32
+R7
+!i10b 1
+R8
+Z38 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/betta/Documents/WORKSPACE/PSM/DIGITALE/Project_AMBA_APB/src/RAM.vhd|
+Z39 !s107 C:/Users/betta/Documents/WORKSPACE/PSM/DIGITALE/Project_AMBA_APB/src/RAM.vhd|
+!i113 1
+R11
+R12
+Artl
+R14
+R1
+R2
+DEx4 work 9 ram_128x8 0 22 bDz2FoX[jIAEC`cc4ZI<:1
+!i122 9
+l26
+L17 27
+VUn];3G1_OOEgSf>[LXz1c3
+!s100 3gX2S@BnO=59zNX`;^Udm3
+R6
+32
+R7
+!i10b 1
+R8
+R38
+R39
+!i113 1
+R11
+R12
+Erom_64x16
+Z40 w1686212544
+R14
+R1
+R2
+!i122 10
+R3
+Z41 8C:/Users/betta/Documents/WORKSPACE/PSM/DIGITALE/Project_AMBA_APB/src/ROM.vhd
+Z42 FC:/Users/betta/Documents/WORKSPACE/PSM/DIGITALE/Project_AMBA_APB/src/ROM.vhd
+l0
+L7 1
+V8fen:W8ed=Y_j<g0MaRgb3
+!s100 I06KGPNIU^UJdk=;ZzSml0
+R6
+32
+R27
+!i10b 1
+R28
+Z43 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/betta/Documents/WORKSPACE/PSM/DIGITALE/Project_AMBA_APB/src/ROM.vhd|
+Z44 !s107 C:/Users/betta/Documents/WORKSPACE/PSM/DIGITALE/Project_AMBA_APB/src/ROM.vhd|
+!i113 1
+R11
+R12
+Artl
+R14
+R1
+R2
+DEx4 work 9 rom_64x16 0 22 8fen:W8ed=Y_j<g0MaRgb3
+!i122 10
+l32
+L15 25
+VnKj=RYU=LcCo@>>jm@KbM0
+!s100 5zWY3cnPcjKKcliH=D;e21
+R6
+32
+R27
+!i10b 1
+R28
+R43
+R44
+!i113 1
+R11
+R12
