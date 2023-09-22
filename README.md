@@ -7,3 +7,5 @@ Design of a digital circuit capable of implementing a communication based on AMB
 
 The system to be designed is hence required to communicate with the master (to detect its requests and exchange data), generate the signals compatible with APB protocol and handle the specific set of connections to the slave memories.
 The project includes source file for the system in hardware description language, tests and simulations to verify its functionalities and also synthesis and implementation on FPGA.
+
+Here can be foud the source files (VHDL and python scripts). The project was verified and tested through ModelSim and Xilinx Vivado
