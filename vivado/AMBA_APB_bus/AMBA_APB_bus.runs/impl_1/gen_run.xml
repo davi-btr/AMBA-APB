@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7z010clg400-1" LaunchTime="1686339478">
+  <File Type="OPT-HWDEF" Name="APB_bus_wrap.hwdef"/>
+  <File Type="ROUTE-BUS-SKEW" Name="APB_bus_wrap_bus_skew_routed.rpt"/>
+  <File Type="PA-DCP" Name="APB_bus_wrap.dcp"/>
+  <File Type="BITSTR-BMM" Name="APB_bus_wrap_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="APB_bus_wrap_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="APB_bus_wrap_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="APB_bus_wrap_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="APB_bus_wrap.tcl"/>
+  <File Type="OPT-TIMING" Name="APB_bus_wrap_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="APB_bus_wrap_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="APB_bus_wrap_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="APB_bus_wrap_reports.tcl"/>
+  <File Type="OPT-DRC" Name="APB_bus_wrap_drc_opted.rpt"/>
+  <File Type="PWROPT-DCP" Name="APB_bus_wrap_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="APB_bus_wrap_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="APB_bus_wrap_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="APB_bus_wrap_placed.dcp"/>
+  <File Type="PLACE-IO" Name="APB_bus_wrap_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="APB_bus_wrap_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="APB_bus_wrap_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="APB_bus_wrap_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="APB_bus_wrap_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="APB_bus_wrap_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="APB_bus_wrap_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="APB_bus_wrap_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="APB_bus_wrap_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="APB_bus_wrap.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="APB_bus_wrap_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="APB_bus_wrap_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="APB_bus_wrap_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="APB_bus_wrap.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="APB_bus_wrap_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="APB_bus_wrap_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="APB_bus_wrap_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="APB_bus_wrap_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="APB_bus_wrap_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="APB_bus_wrap_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="APB_bus_wrap_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="APB_bus_wrap.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="APB_bus_wrap_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="APB_bus_wrap_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="APB_bus_wrap_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="APB_bus_wrap_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="APB_bus_wrap_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="APB_bus_wrap_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="APB_bus_wrap_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="APB_bus_wrap_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="APB_bus_wrap_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="APB_bus_wrap_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="APB_bus_wrap_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="APB_bus_wrap_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="APB_bus_wrap_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="APB_bus_wrap_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="APB_bus_wrap_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="APB_bus_wrap_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="APB_bus_wrap_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="APB_bus_wrap_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="APB_bus_wrap_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="APB_bus_wrap_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="APB_bus_wrap.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="APB_bus_wrap_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="APB_bus_wrap.rbt"/>
+  <File Type="BITSTR-NKY" Name="APB_bus_wrap.nky"/>
+  <File Type="PDI-FILE" Name="APB_bus_wrap.pdi"/>
+  <File Type="RCFI_FILE" Name="APB_bus_wrap.rcfi"/>
+  <File Type="CFI_FILE" Name="APB_bus_wrap.cfi"/>
+  <File Type="RNPI_FILE" Name="APB_bus_wrap.rnpi"/>
+  <File Type="NPI_FILE" Name="APB_bus_wrap.npi"/>
+  <File Type="RBD_FILE" Name="APB_bus_wrap.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="APB_bus_wrap.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="APB_bus_wrap.sysdef"/>
+  <File Type="BG-BGN" Name="APB_bus_wrap.bgn"/>
+  <File Type="BG-DRC" Name="APB_bus_wrap.drc"/>
+  <File Type="RDI-RDI" Name="APB_bus_wrap.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PPRDIR/../../src/AMBA_APB.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../src/RAM_vivado_interface.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../src/ROM_vivado_interface.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../src/AMBA_APB_sys_vivado_wr.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="APB_bus_wrap"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/APB_constraints.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TargetConstrsFile" Val="$PSRCDIR/constrs_1/new/APB_constraints.xdc"/>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2020">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

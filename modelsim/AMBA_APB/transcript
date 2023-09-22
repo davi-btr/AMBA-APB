@@ -1,0 +1,31 @@
+# Compile of AMBA_APB.vhd was successful.
+# Compile of APB_RAM_wr.vhd was successful.
+# Compile of APB_ROM_wr.vhd was successful.
+# Compile of RAM.vhd was successful.
+# Compile of ROM.vhd was successful.
+# Compile of AMBA_APB_tb.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+vsim -gui work.apb_tb
+# vsim -gui work.apb_tb 
+# Start time: 19:38:11 on Jun 09,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.apb_tb(rtl)
+# Loading work.apb_bridge(rtl)
+# Loading work.apb_slave_rom(rtl)
+# Loading ieee.numeric_std(body)
+# Loading work.rom_64x16(rtl)
+# Loading work.apb_slave_ram(rtl)
+# Loading work.ram_128x8(rtl)
+do wave.do
+run -all
+# ** Warning: ---    WARNING:  Out-of-boundary data (Slave 2 has 8 bit data bus)     ---
+#    Time: 175 ns  Iteration: 3  Instance: /apb_tb
+# ** Warning: ---    WARNING:  Illegal transaction attempted (Slave 1 is read-only)     ---
+#    Time: 235 ns  Iteration: 3  Instance: /apb_tb
+# ** Warning: ---    WARNING:  Out-of-boundary access (Slave 1 has 6 bit address)     ---
+#    Time: 325 ns  Iteration: 3  Instance: /apb_tb
+quit
+# End time: 19:40:26 on Jun 09,2023, Elapsed time: 0:02:15
+# Errors: 0, Warnings: 5
